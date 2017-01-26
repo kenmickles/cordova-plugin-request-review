@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-request-review",
+  "version": "1.0.0",
+  "description": "JavaScript proxy to iOS 10.3's SKStoreReviewController class",
+  "cordova": {
+    "id": "cordova-plugin-request-review",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenmickles/cordova-plugin-request-review.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Ken Mickles <ken@37i.net>",
+  "license": "Apache-2.0"
+}
